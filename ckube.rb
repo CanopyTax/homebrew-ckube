@@ -1,9 +1,9 @@
 class Ckube < Formula
   desc "Concurrent kubectl"
   homepage "https://github.com/CanopyTax/ckube"
-  url "https://github.com/CanopyTax/ckube/releases/download/v0.4.3/ckube_darwin_amd64.tar.gz"
-  sha256 "8b138d88d14e402a6bc506fa5228593b57f4021e358a236179b2af9a81c83f84"
-  version "0.4.3"
+  url "https://github.com/CanopyTax/ckube/releases/download/v0.4.4/ckube_darwin_amd64.tar.gz"
+  sha256 "6b9107da5bbb6f5ca5c46948fc18e48eb5e6695f82444eef9a0d514d96fe5d19"
+  version "0.4.4"
 
   depends_on "kubernetes-cli"
 
